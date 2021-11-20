@@ -1,0 +1,1 @@
+python test_spm_codec.py --checkpoints_dir xxx --how_many 2000 --name name --dataroot dataroot --results_dir results_dir --which_epoch n --dataset_mode celeba --style_nc 64 --label_nc 18 --contain_dontcare_label --no_instance --labels_x8 --binary_quant --qp_step -6
